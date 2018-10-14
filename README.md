@@ -1,4 +1,4 @@
-# PangYa---Bat-to-Open-Server-Files-
+# PangYa Game -> Bat to open server executable files
 Bat file to open server .exes of a PangYa Season 8 private server.
 -----------
 Instructions:
