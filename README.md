@@ -37,5 +37,5 @@ Example: B:\Games\PangYa Season 8\Server exes\Game Server\Game Server.exe
 -----------
 Notes:
 
-a) Make sure that your web server is connected
+a) Make sure that your web server is connected </br >
 b) Up until your server connect, the server executable file may popup an error message. Don't worry.
