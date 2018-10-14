@@ -1,6 +1,6 @@
 # PangYa---Bat-to-Open-Server-Files-
 Bat file to open server .exes of a PangYa Season 8 private server.
-
+-----------
 Instructions:
 
 Edit .bat file in place of the numbers:
@@ -34,7 +34,6 @@ Example: B:\Games\PangYa Season 8\Server exes\Game Server
 
 10) The Game Server .exe
 Example: B:\Games\PangYa Season 8\Server exes\Game Server\Game Server.exe
-
 -----------
 Notes:
 
